@@ -57,7 +57,7 @@ This CSV file is organized to match each answer with its corresponding question 
 
 This dataset is intended for educators, developers, and researchers focused on programming education, particularly for Chinese-speaking learners. It can be used to enhance educational content, develop tutoring systems, or support academic research on programming learning patterns. Additionally, the dataset is well-suited for evaluating the capabilities of large language models (like GPT) in the context of programming education, including their ability to understand and generate programming-related content. This offers valuable resources for exploring and leveraging large models as educational aids, thereby improving the effectiveness and efficiency of programming education.
 
-If you would like to learn more about how to use the dataset and for further details, please read our paper, available at: xxxxxxxxxxxxxxxxxxxxxxxxx
+If you would like to learn more about how to use the dataset and for further details, please read our paper, available at: https://arxiv.org/abs/2402.07913
 
 
 
