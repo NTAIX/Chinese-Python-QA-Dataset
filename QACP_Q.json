@@ -1040,7 +1040,7 @@
         "Knowledge Point": "Control Flow Structures",
         "Question Type": "Beginner",
         "Answer Type": "Explain in Detail",
-        "Question": "else后边可以跟条件吗"
+        "Question": "python中多个条件可以用else if表示吗"
     },
     {
         "id": 150,
